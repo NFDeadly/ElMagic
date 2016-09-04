@@ -1,0 +1,128 @@
+(A) 
+- Accio
+- Aguamenti
+- Alarte Ascendare
+- Alohomora
+- Aparecium
+- Aqua Eructo
+- Arania Exumai
+- Arresto Momentum
+- Arrow-shooting spell
+- Ascendio
+- Avada Kedavra
+- Avis
+- Apparate
+- Amor Vita
+- Amplify
+- Atmospheric Charm
+(B)
+- Baubillious
+- Bewitched Snowballs
+- Bombarda Maxima
+- Bubble-Head Charm
+- Bombarda
+(C)
+- Crucio
+- Confringo
+- Confundo
+- Conjunctivitis
+- Colloportus
+- Cloak of Shadows
+- Curse of the Bogies
+- 
+(D)
+- Depulso
+- Disillusionment Charm
+- Diffindo
+- Deprimo
+- Deletrius
+- Duro
+- Scrubillious
+- Defodio
+- Vanish Yourself
+(E)
+- Episkey
+- Evanesco
+- Expecto Patronum
+- Everte Statum
+- Expelliarmus
+(F)
+- Ferula
+- Fianto Duri
+- Fiendfyre
+- Finite Incantatem
+- Firestorm
+- Flagrate
+- Flame-Freezing Charm
+- Fumos
+- Flight
+(G)
+- Glacius
+(I)
+- Immobulus
+- Imperio
+- Impervius
+- Incarcerous
+- Incendio
+- Incendium
+(L)
+- Lacarnum Inflamarae
+- Lapifors
+- Legilimens
+- Levicorpus
+- Locomotor Mortis
+- Lumos
+- Lumos Maxima
+- Lumos Solem
+- Lightning Vanish
+(M)
+- Melofors
+- Meteolojinx Recanto
+- Morsmordre
+(N)
+- Nox
+(O)
+- Orchideous
+- Obliviate
+- Obscuro
+(P)
+- Periculux
+- Periculum
+- Petrificus Totalus
+- Piertotum Locomotor
+- Four-Point Spell
+- Protego Maxima
+- Protego
+- Protego Horribilis
+- Protego Totalum
+- Protego Duo
+(R)
+- Reducio
+- Reducto
+- Reparifors
+- Rennervate
+- Reparo
+- Rictusempra
+- Reducto Maxima
+- Revelio
+(S)
+- Sectumsempra
+- Salvio Hexia
+- Stupefy
+- Spongify
+- Spongify Maxima
+- Salvio Optime
+- Silencio
+(V)
+- Vulnera Sanentur
+- Verdimillious
+- Ventus
+- Vermillious
+- Volo
+(W)
+- Wingardium Leviosa
+
+(EXTRA)
+- Tripudio
+- Anti Apparate
+- Black Hole
